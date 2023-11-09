@@ -10,7 +10,7 @@
 
 ## My Interests
 
-- 🖥️ I'm interested in Web Developmemnt, Machine Learning and BLockchain.
+- 🖥️ I'm interested in Web Developmemnt, Machine Learning and Blockchain.
 - 🌐 I'm passionate about open source and collaborative projects.
 - 📚 I'm always learning and exploring new technologies.
 
